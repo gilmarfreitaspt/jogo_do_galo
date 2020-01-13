@@ -1,0 +1,18 @@
+C:\Users\Alex\Documents\Programador\3935 - Programação em C#\Exercicio 4 Jogo do Galo\bin\Debug\Exercicio 4 Jogo do Galo.exe.config
+C:\Users\Alex\Documents\Programador\3935 - Programação em C#\Exercicio 4 Jogo do Galo\bin\Debug\Exercicio 4 Jogo do Galo.exe
+C:\Users\Alex\Documents\Programador\3935 - Programação em C#\Exercicio 4 Jogo do Galo\bin\Debug\Exercicio 4 Jogo do Galo.pdb
+C:\Users\Alex\Documents\Programador\3935 - Programação em C#\Exercicio 4 Jogo do Galo\obj\Debug\Exercicio 4 Jogo do Galo.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\Programador\3935 - Programação em C#\Exercicio 4 Jogo do Galo\obj\Debug\Exercicio_4_Jogo_do_Galo.Form1.resources
+C:\Users\Alex\Documents\Programador\3935 - Programação em C#\Exercicio 4 Jogo do Galo\obj\Debug\Exercicio_4_Jogo_do_Galo.Properties.Resources.resources
+C:\Users\Alex\Documents\Programador\3935 - Programação em C#\Exercicio 4 Jogo do Galo\obj\Debug\Exercicio 4 Jogo do Galo.csproj.GenerateResource.cache
+C:\Users\Alex\Documents\Programador\3935 - Programação em C#\Exercicio 4 Jogo do Galo\obj\Debug\Exercicio 4 Jogo do Galo.exe
+C:\Users\Alex\Documents\Programador\3935 - Programação em C#\Exercicio 4 Jogo do Galo\obj\Debug\Exercicio 4 Jogo do Galo.pdb
+E:\Exercicio 4 Jogo do Galo\bin\Debug\Exercicio 4 Jogo do Galo.exe.config
+E:\Exercicio 4 Jogo do Galo\bin\Debug\Exercicio 4 Jogo do Galo.exe
+E:\Exercicio 4 Jogo do Galo\bin\Debug\Exercicio 4 Jogo do Galo.pdb
+E:\Exercicio 4 Jogo do Galo\obj\Debug\Exercicio 4 Jogo do Galo.csprojAssemblyReference.cache
+E:\Exercicio 4 Jogo do Galo\obj\Debug\Exercicio_4_Jogo_do_Galo.Form1.resources
+E:\Exercicio 4 Jogo do Galo\obj\Debug\Exercicio_4_Jogo_do_Galo.Properties.Resources.resources
+E:\Exercicio 4 Jogo do Galo\obj\Debug\Exercicio 4 Jogo do Galo.csproj.GenerateResource.cache
+E:\Exercicio 4 Jogo do Galo\obj\Debug\Exercicio 4 Jogo do Galo.exe
+E:\Exercicio 4 Jogo do Galo\obj\Debug\Exercicio 4 Jogo do Galo.pdb
